@@ -1,0 +1,30 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\bin\Debug\net6.0\ParsingGame2.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\bin\Debug\net6.0\ParsingGame2.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\bin\Debug\net6.0\ParsingGame2.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\bin\Debug\net6.0\ParsingGame2.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\bin\Debug\net6.0\ParsingGame2.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\refint\ParsingGame2.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ref\ParsingGame2.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\bin\Debug\net6.0\ParsingGame2.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\bin\Debug\net6.0\ParsingGame2.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\bin\Debug\net6.0\ParsingGame2.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\bin\Debug\net6.0\ParsingGame2.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\bin\Debug\net6.0\ParsingGame2.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\refint\ParsingGame2.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ParsingGame2.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\24 - Parse Fame Assignment 2\ParsingGame2\ParsingGame2\obj\Debug\net6.0\ref\ParsingGame2.dll
